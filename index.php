@@ -18,7 +18,7 @@
 
         <!-- Cabeçalho com título e subtítulo (ambos com css de id "titulo") -->
         <div>
-            <h1 id="titulo">Gestão de Condomínios</h1>
+            <h1 id="titulo">Gestão </h1>
             <!--p id="subtitulo">Complete suas informações</p>
             <br>
         </div>
